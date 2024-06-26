@@ -19,12 +19,19 @@ Usage of TCS34725 RGB Color sensor with Arduino Uno
 
 This module has 7 pins:
 ● VCC: Module power supply – 5 V
+
 ● 3.3: Module power supply – 3.3 V
+
 ● GND: Ground
+
 ● SLC: I2C Clock
+
 ● SDA: I2C data
+
 ● INT: Adjust I2C Address
+
 ● LED: Turning on the LED of ActiveLow module
+
 
 
 # Circuit connections
@@ -45,6 +52,9 @@ This module has 7 pins:
 
 # References
 [1] https://learn.adafruit.com/adafruit-color-sensors/arduino-code
+
 [2] https://www.makerguides.com/tcs34725-rgb-color-sensor-with-arduino/
+
 [3] https://electropeak.com/learn/interfacing-tcs34725-color-sensor-with-arduino/
+
 
