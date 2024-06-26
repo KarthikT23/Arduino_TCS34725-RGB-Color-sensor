@@ -18,6 +18,8 @@ Usage of TCS34725 RGB Color sensor with Arduino Uno
 
 
 This module has 7 pins:
+
+
 ● VCC: Module power supply – 5 V
 
 ● 3.3: Module power supply – 3.3 V
