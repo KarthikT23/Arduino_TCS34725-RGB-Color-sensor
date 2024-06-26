@@ -14,7 +14,8 @@ Usage of TCS34725 RGB Color sensor with Arduino Uno
 8. Arduino IDE
 
 # TCS34725 RGB Color sensor pinout
-![image](https://github.com/KarthikT23/Arduino_TCS34725-RGB-Color-sensor/assets/119528503/9c207a3c-7f4e-45ae-a909-c550053470a2)
+![TCS34725 RGB Color sensor pinout](https://github.com/KarthikT23/Arduino_TCS34725-RGB-Color-sensor/assets/119528503/5ad53a09-62e5-4442-b629-0b273726a726)
+
 
 This module has 7 pins:
 ● VCC: Module power supply – 5 V
@@ -27,13 +28,19 @@ This module has 7 pins:
 
 
 # Circuit connections
-![image](https://github.com/KarthikT23/Arduino_TCS34725-RGB-Color-sensor/assets/119528503/3b4e77b3-451b-4260-83dc-75f8603231a6)
+![Circuit connections](https://github.com/KarthikT23/Arduino_TCS34725-RGB-Color-sensor/assets/119528503/002180d6-61cf-4b11-b76a-1ae5f46b3981)
+
+
 
 
 
 
 ![image](https://github.com/KarthikT23/Arduino_TCS34725-RGB-Color-sensor/assets/119528503/387ea548-e473-45d9-8e13-73271f54ca29)
 
+
+
+# Outputs
+![outputs](https://github.com/KarthikT23/Arduino_TCS34725-RGB-Color-sensor/assets/119528503/834c4b23-47c0-40a2-ba01-fe0371e6df6f)
 
 
 # References
